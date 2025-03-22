@@ -10,8 +10,6 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
 
-![Image](docs/image2.png)
-
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
